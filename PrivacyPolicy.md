@@ -18,11 +18,6 @@ We collect several different types of information for various purposes to provid
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-*   Email address
-*   First name and last name
-*   Phone number
-*   Country
-*   Location
 *   Cookies and Usage Data
 
 #### Usage Data
